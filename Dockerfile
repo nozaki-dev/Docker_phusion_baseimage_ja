@@ -16,6 +16,7 @@ RUN apt-get update && apt-get -y upgrade \
     && apt-get -y install manpages-ja \
     && apt-get -y install tzdata \
     && rm -rf /var/lib/apt/lists/*
+    
 
 
 #日本語環境設定
