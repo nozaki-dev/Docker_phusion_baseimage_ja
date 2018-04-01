@@ -1,2 +1,3 @@
 # Docker_phusion_baseimage_ja
+
 phusion/baseimageのイメージに日本語環境を設定するためのDockerfileです。
